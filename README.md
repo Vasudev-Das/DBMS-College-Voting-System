@@ -1,2 +1,24 @@
-# DBMS-College-Voting-System
-The College Voting System was developed using PostgreSQL as the backend database and Python Flask to connect the user interface with the database. The system securely records each vote with a timestamp, ensuring data integrity, preventing duplicate voting, and enabling transparent and reliable vote management.
+# Overview
+This project implements a secure college voting system using PostgreSQL as the backend database and Python Flask as the application layer. The system ensures one vote per student and records each vote with a timestamp for integrity and auditability.
+
+## Technologies Used
+- PostgreSQL
+- Python Flask
+- SQL
+- DBMS Concepts
+
+## Features
+- Secure voting system
+- Prevents duplicate voting using constraints
+- Timestamp-based vote recording
+- Reliable database storage
+- User interface connected via Flask
+
+## File
+- DBMS_College_Voting_System_IEEE_Paper.pdf
+
+## Author
+Vasudev Das
+
+## Purpose
+Academic DBMS Project demonstrating database design and implementation.
